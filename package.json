@@ -1,0 +1,13 @@
+{
+  "name": "react-native-template-requiredev",
+  "version": "0.0.1",
+  "description": "React Native Require Development Template",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": "git@github.com:joncardasis/react-native-template-requiredev.git",
+  "author": "Jon Cardasis <jon@require.dev>",
+  "license": "MIT",
+  "homepage": "https://github.com/joncardasis/react-native-template-requiredev#readme"
+}
