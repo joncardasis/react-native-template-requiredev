@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
+    "paths": {
+      "*": ["*", "*.ios", "*.android"]
+    },
     "allowJs": true,
     "baseUrl": "src",
     "jsx": "react-native",
