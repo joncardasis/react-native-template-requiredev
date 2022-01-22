@@ -39,6 +39,9 @@ yarn-error.log
 # eslint
 .eslintcache
 
+# jest
+.jest
+
 # BUCK
 buck-out/
 \.buckd/
