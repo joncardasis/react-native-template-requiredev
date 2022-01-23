@@ -7,7 +7,6 @@
 - First-class support for TypeScript
 - Fully configured with ESLint and Prettier
 - Optional [CLI tool]() for machine configuration
-- Ready for CI/CD
 
 ## Usage
   
@@ -39,7 +38,7 @@ Once a project layout has been determined, `babel.config.js` should be modified 
   ],
   ```
 
-## CLI Tool
+## CLI Tool [:construction: planned]
 Always keep development dependencies (Android Studio, Xcode, Node, Ruby, etc) in sync using the included `doctor` tool. The `.doctor` file specifies version compliance.
 
 The CLI Tool is installed by default. You can uninstall using:
