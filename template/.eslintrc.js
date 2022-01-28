@@ -2,9 +2,10 @@ module.exports = {
   root: true,
   extends: [
     '@react-native-community',
-    'plugin:prettier/recommended',
+    'eslint:recommended',
     'plugin:jest/recommended',
     'plugin:jest/style',
+    'plugin:prettier/recommended',
   ],
   parser: '@typescript-eslint/parser',
   plugins: ['import', '@typescript-eslint', 'react', 'react-hooks'],
